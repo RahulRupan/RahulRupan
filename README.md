@@ -12,36 +12,6 @@ I build real-world projects to gain hands-on experience and prepare for Data Ana
 
 ---
 
-## Currently Working On
-
-- Improving SQL skills
-- Data Warehouse projects
-- Data Analysis projects
-
----
-
-## Tools
-
-- SQL Server
-- Excel
-- GitHub
-
----
-
-## Projects
-
-### SQL Data Warehouse Project
-Modern SQL Data Warehouse with ETL process and data modeling.
-
-https://github.com/RahulRupan/sql-data-warehouse-project
-
-### SQL Data Analytics Project
-SQL data analysis project generating business insights.
-
-https://github.com/RahulRupan/sql-data-analytics-project
-
----
-
 ## Contact
 
 Email: rupanraj00@gmail.com  
