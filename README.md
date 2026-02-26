@@ -25,7 +25,6 @@ I am currently building projects in data warehousing and data analytics to devel
 - GitHub
 
 ---
----
 
 ## Projects
 
