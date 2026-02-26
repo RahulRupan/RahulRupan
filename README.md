@@ -20,7 +20,7 @@ I am currently building projects in data warehousing and data analytics to devel
 ## Tools I Use
 
 - SQL
-- MySQL / SQL Server
+- SQL Server
 - Excel
 - GitHub
 
@@ -61,7 +61,7 @@ https://github.com/RahulRupan/sql-data-analytics-project
 
 ---
 
-## How to Reach Me
+## To Reach Me
 
-Email: your-email@gmail.com  
+Email: rupanraj00@gmail.com  
 GitHub: https://github.com/RahulRupan
