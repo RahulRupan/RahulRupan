@@ -1,30 +1,26 @@
-# Hi, I'm Rupan 👋
+# Hi, I'm Rahul 👋
 
-## Who I Am
-I am an aspiring Data Analyst focused on learning and applying SQL to solve real-world data problems.
-
-I am currently building projects in data warehousing and data analytics to develop practical skills and industry-ready experience.
----
-
-## What I Am Currently Working On
-
-- Improving my SQL skills
-- Building Data Warehouse projects
-- Creating Data Analytics reports
-- Practicing real-world data analysis
-
-  
----
-
-## Currently Learning
-
-- Advanced SQL
-- Data Analysis
-- Data Modeling
+**Aspiring Data Analyst building real-world SQL Data Warehouse and Analytics projects.**
 
 ---
 
-## Tools I Use
+## About Me
+
+I am an aspiring Data Analyst focused on developing practical skills in SQL, data warehousing, and data analysis.
+
+I build real-world projects to gain hands-on experience and prepare for Data Analyst roles.
+
+---
+
+## Currently Working On
+
+- Improving SQL skills
+- Data Warehouse projects
+- Data Analysis projects
+
+---
+
+## Tools
 
 - SQL Server
 - Excel
@@ -35,21 +31,18 @@ I am currently building projects in data warehousing and data analytics to devel
 ## Projects
 
 ### SQL Data Warehouse Project
-
-Modern data warehouse built using SQL.
+Modern SQL Data Warehouse with ETL process and data modeling.
 
 https://github.com/RahulRupan/sql-data-warehouse-project
 
-
 ### SQL Data Analytics Project
-
-SQL analysis project generating business insights.
+SQL data analysis project generating business insights.
 
 https://github.com/RahulRupan/sql-data-analytics-project
 
 ---
 
-## To Reach Me
+## Contact
 
 Email: rupanraj00@gmail.com  
 GitHub: https://github.com/RahulRupan
