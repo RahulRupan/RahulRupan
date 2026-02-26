@@ -25,16 +25,6 @@ I am currently building projects in data warehousing and data analytics to devel
 - GitHub
 
 ---
-
-## My Purpose
-To build a meaningful career working with data and solving real-world business problems.
----
-## My Belief
-I believe consistent practice and real projects build true skills.
----
-## My Cause
-To grow into a professional Data Analyst and continuously improve through learning and discipline.
-
 ---
 
 ## Projects
