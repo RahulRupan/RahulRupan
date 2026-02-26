@@ -1,14 +1,18 @@
 # Hi, I'm Rahul 👋
 
-**Aspiring Data Analyst building real-world SQL Data Warehouse and Analytics projects.**
+Aspiring Data Analyst focused on building practical skills in SQL, data warehousing, and data analysis.
 
----
+## Currently Working On
 
-## About Me
+- Improving SQL skills
+- Data Warehouse development
+- Data Analysis projects
 
-I am an aspiring Data Analyst focused on developing practical skills in SQL, data warehousing, and data analysis.
+## Tools
 
-I build real-world projects to gain hands-on experience and prepare for Data Analyst roles.
+- SQL Server
+- Excel
+- GitHub
 
 ---
 
