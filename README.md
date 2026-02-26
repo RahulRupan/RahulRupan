@@ -1,11 +1,9 @@
 # Hi, I'm Rupan 👋
 
 ## Who I Am
-
 I am an aspiring Data Analyst focused on learning and applying SQL to solve real-world data problems.
 
 I am currently building projects in data warehousing and data analytics to develop practical skills and industry-ready experience.
-
 ---
 
 ## What I Am Currently Working On
@@ -15,11 +13,19 @@ I am currently building projects in data warehousing and data analytics to devel
 - Creating Data Analytics reports
 - Practicing real-world data analysis
 
+  
+---
+
+## Currently Learning
+
+- Advanced SQL
+- Data Analysis
+- Data Modeling
+
 ---
 
 ## Tools I Use
 
-- SQL
 - SQL Server
 - Excel
 - GitHub
