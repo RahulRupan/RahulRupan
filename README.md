@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Rupan 👋
 
-<!--
-**RahulRupan/RahulRupan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I Am
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst focused on learning and applying SQL to solve real-world data problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building projects in data warehousing and data analytics to develop practical skills and industry-ready experience.
+
+---
+
+## What I Am Currently Working On
+
+- Improving my SQL skills
+- Building Data Warehouse projects
+- Creating Data Analytics reports
+- Practicing real-world data analysis
+
+---
+
+## Tools I Use
+
+- SQL
+- MySQL / SQL Server
+- Excel
+- GitHub
+
+---
+
+## My Purpose
+
+To build a meaningful career working with data and solving real-world business problems.
+
+---
+
+## My Belief
+
+I believe consistent practice and real projects build true skills.
+
+---
+
+## My Cause
+
+To grow into a professional Data Analyst and continuously improve through learning and discipline.
+
+---
+
+## Projects
+
+### SQL Data Warehouse Project
+
+Modern data warehouse built using SQL.
+
+https://github.com/RahulRupan/sql-data-warehouse-project
+
+
+### SQL Data Analytics Project
+
+SQL analysis project generating business insights.
+
+https://github.com/RahulRupan/sql-data-analytics-project
+
+---
+
+## How to Reach Me
+
+Email: your-email@gmail.com  
+GitHub: https://github.com/RahulRupan
