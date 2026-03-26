@@ -12,6 +12,7 @@ Aspiring Data Analyst focused on building practical skills in SQL, data warehous
 
 - SQL Server
 - Excel
+- tableau
 - GitHub
 
 ---
